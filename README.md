@@ -1,4 +1,4 @@
-# mucus halo of marine snow
+# detection and analysis of mucus halo around marine snow
 This analysis follows the PIV analysis given in the other repository. This code evaluates the hydrodynamic radius (no-flow region) around marine snow through PIV of marine snow (as seen below)
 ![mucus_halo](https://github.com/user-attachments/assets/65e518b9-2e4e-44e7-a697-898aadbf81dd)
 
